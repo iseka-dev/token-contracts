@@ -29,7 +29,6 @@ smart contracts.
   of the previouslly existing tokens.
 
 
-
 3. 1155-metadata.sol
 
 4. 1155-multiple-tokens.sol
