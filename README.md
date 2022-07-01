@@ -7,7 +7,7 @@
   - safeBatchTransferFrom
   - safeTransferFrom
   - transferOwnerShip
-  
+
 
 2. 1155-mintable.sol
   This is also an erc 1155 token generator smart contract.
@@ -16,6 +16,8 @@
   The minting action can be repeated to generate new tokens, or a new amount
   of the previouslly existing tokens.
 
-3. 1155-
+3. 1155-metadata.sol
+
+4. 1155-multiple-tokens.sol
 
 10. 1155-TokenFactory
